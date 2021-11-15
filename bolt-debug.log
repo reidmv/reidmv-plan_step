@@ -1,0 +1,12 @@
+2021-11-15T15:02:36.777037 INFO   [main] [Bolt::Logger] Loaded project from '/Users/reidmv/Workspace/repos/reidmv-plan_step'
+2021-11-15T15:02:36.777212 DEBUG  [main] [Bolt::Logger] Analytics opt-out is set, analytics will be disabled
+2021-11-15T15:02:36.778288 DEBUG  [main] [Bolt::Executor] Started with 36 max thread(s)
+2021-11-15T15:02:36.779145 DEBUG  [main] [Bolt::PAL] Loading modules from /opt/puppetlabs/bolt/lib/ruby/gems/2.7.0/gems/bolt-3.17.0/bolt-modules:/Users/reidmv/Workspace/repos/reidmv-plan_step/modules:/Users/reidmv/Workspace/repos/reidmv-plan_step/.modules:/opt/puppetlabs/bolt/lib/ruby/gems/2.7.0/gems/bolt-3.17.0/modules
+2021-11-15T15:02:36.779757 DEBUG  [main] [Bolt::Inventory] Tried to load inventory from /Users/reidmv/Workspace/repos/reidmv-plan_step/inventory.yaml, but the file does not exist
+2021-11-15T15:02:37.153173 INFO   [event-publisher] [Bolt::Outputter::Logger] Starting: plan plan_step::test
+2021-11-15T15:02:37.158260 INFO   [event-publisher] [Bolt::Outputter::Logger] # Plan Step: one - SKIPPING
+2021-11-15T15:02:37.158407 INFO   [event-publisher] [Bolt::Outputter::Logger] # Plan Step: two - SKIPPING
+2021-11-15T15:02:37.158672 INFO   [event-publisher] [Bolt::Outputter::Logger] # Plan Step: three - SKIPPING
+2021-11-15T15:02:37.160331 INFO   [event-publisher] [Bolt::Outputter::Logger] # Plan Step: four
+2021-11-15T15:02:37.160422 INFO   [event-publisher] [Bolt::Outputter::Logger] Step 4 performed!
+2021-11-15T15:02:37.160570 INFO   [event-publisher] [Bolt::Outputter::Logger] Finished: plan plan_step::test in 0.01 sec
