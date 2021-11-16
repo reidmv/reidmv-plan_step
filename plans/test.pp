@@ -1,3 +1,4 @@
+# @api private
 plan plan_step::test (
   Optional[String[1]] $start_at_step = undef,
 ) {
